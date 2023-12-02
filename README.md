@@ -17,7 +17,7 @@ Desenvolvedor de software na CWI Software e estudante de Sistemas de Informaçã
 - 📫 Como me contatar
   * [Linkedin](https://www.linkedin.com/in/cassiofariasmachado)
   * [Twitter](https://twitter.com/cassiofmachado)
-  * [Mail](mailto:cassiofariasmachado@yahoo.com)
+  * [Mail](mailto:contact@cassiofariasmachado.com)
 
 
 ### English
@@ -39,7 +39,7 @@ Software developer at [CWI Software](https://cwi.com.br) and student of Informat
 - 📫 How to reach me
   * [Linkedin](https://www.linkedin.com/in/cassiofariasmachado)
   * [Twitter](https://twitter.com/cassiofmachado)
-  * [Mail](mailto:cassiofariasmachado@yahoo.com)
+  * [Mail](mailto:contact@cassiofariasmachado.com)
 
 
 [![Cassio's github stats](https://github-readme-stats.vercel.app/api?username=cassiofariasmachado&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
