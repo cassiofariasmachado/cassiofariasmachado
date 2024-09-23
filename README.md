@@ -3,20 +3,19 @@
 Desenvolvedor de software na CWI Software e estudante de Sistemas de Informação. Apaixonado por desenvolvimento de software, amante de café (e cerveja), e sempre em busca de novos desafios.
 
 - 🔭 Atualmente estou trabalhando com
-  * .NET Core
-  * React Native
+  * .NET
+  * AWS
+  * Kubernetes
+  * Kafka
 - 📚 Atualmente estou estudando
-  * Elixir
-  * React/React Native
   * Cloud Providers
     - AWS
     - Azure
 - ⚡ Fatos legais
-  * Entusiasta em preogração funcional
+  * Entusiasta em programação funcional
   * Amante de 🍺 e ☕
 - 📫 Como me contatar
   * [Linkedin](https://www.linkedin.com/in/cassiofariasmachado)
-  * [Twitter](https://twitter.com/cassiofmachado)
   * [Mail](mailto:contact@cassiofariasmachado.com)
 
 
@@ -25,11 +24,11 @@ Desenvolvedor de software na CWI Software e estudante de Sistemas de Informaçã
 Software developer at [CWI Software](https://cwi.com.br) and student of Information Systems. Passionate about software development, lover of coffee (and beer), and always looking for new challenges.
 
 - 🔭 I’m currently working with
-  * .NET Core
-  * React Native
+  * .NET
+  * AWS
+  * Kubernetes
+  * Kafka
 - 📚 I’m currently learning
-  * Elixir
-  * React/React Native
   * Cloud Providers
     - AWS
     - Azure
@@ -38,7 +37,6 @@ Software developer at [CWI Software](https://cwi.com.br) and student of Informat
   * Lover of 🍺 and ☕
 - 📫 How to reach me
   * [Linkedin](https://www.linkedin.com/in/cassiofariasmachado)
-  * [Twitter](https://twitter.com/cassiofmachado)
   * [Mail](mailto:contact@cassiofariasmachado.com)
 
 
