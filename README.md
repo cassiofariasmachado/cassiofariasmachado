@@ -1,6 +1,6 @@
-# Hi there, I'm Cássio
+# Hi there 👋
 
-I'm a Software Engineer based in São Leopoldo.
+I'm Cássio, a Software Engineer based in São Leopoldo, Brazil.
 
 <!-- ### Português
 
@@ -47,3 +47,4 @@ I'm a Software Engineer currently working as a Tech Lead at [CWI Software](https
 [![Cassio's github stats](https://github-readme-stats.vercel.app/api?username=cassiofariasmachado&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Cassio's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiofariasmachado)](https://github.com/anuraghazra/github-readme-stats) -->
+
